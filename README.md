@@ -1,4 +1,4 @@
-### Hi I'm Gilyeon Jung 👋
+###  👋  Hi  I'm Gilyeon Jung  👋
 
 <!--
 **gilyeon00/gilyeon00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
