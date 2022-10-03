@@ -6,7 +6,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilyeon00&show_icons=true&theme=radical)
 
-```
+<hr/>
 ###  Tech Stack 
   
 
@@ -33,7 +33,8 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/> 
-```
- 
+
+<hr/>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gilyeon00&layout=compact)](https://github.com/gilyeon00/github-readme-stats)
 </div>
