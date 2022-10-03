@@ -1,3 +1,5 @@
+<div align="center">
+
 ###  👋  Hi  I'm Gilyeon Jung  👋
 
 
@@ -31,3 +33,5 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/> 
+
+</div>
