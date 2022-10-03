@@ -7,7 +7,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilyeon00&show_icons=true&theme=radical)
 
 <hr/>
-  
+
+**🖤 OS 🖤**  
+<img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/>
 
 **🖤 Programming 🖤**  
   
