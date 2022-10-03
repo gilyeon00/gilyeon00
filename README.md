@@ -1,10 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello,I'm%20Gilyeon&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello,I'm%20Gilyeon&fontSize=60&animation=fadeIn)
 
 
 <div align="center">
 
-  
-###  👋  Hi  I'm Gilyeon Jung  👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilyeon00&show_icons=true&theme=radical)
 
