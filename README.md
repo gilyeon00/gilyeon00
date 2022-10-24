@@ -2,9 +2,11 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgilyeon00&count_bg=%23FF42A1&title_bg=%23000000&icon=&icon_color=%23FFB7F0&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gilyeon00)](https://solved.ac/gilyeon00/)
+
 <div align="center">
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gilyeon00)](https://solved.ac/gilyeon00/)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilyeon00&show_icons=true&theme=radical)
 
 <hr/>
