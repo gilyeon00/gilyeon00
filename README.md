@@ -4,7 +4,7 @@
 
 <div align="center">
 
-
+![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gilyeon00)(https://solved.ac/gilyeon00)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilyeon00&show_icons=true&theme=radical)
 
 <hr/>
@@ -39,7 +39,7 @@
 
 <hr/>
   
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gilyeon00)](https://solved.ac/gilyeon00)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gilyeon00&layout=compact)](https://github.com/gilyeon00/github-readme-stats)
 </div>
