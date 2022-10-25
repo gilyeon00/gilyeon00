@@ -1,13 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FF1493&height=300&section=header&text=Hello,%20I'm%20Gilyeon🖤&fontSize=60&animation=fadeIn&fontAlignY=38)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgilyeon00&count_bg=%23FF42A1&title_bg=%23000000&icon=&icon_color=%23FFB7F0&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgilyeon00&count_bg=%23FF42A1&title_bg=%23000000&icon=&icon_color=%23FFB7F0&title=hits&edge_flat=false)](https://hits.seeyoufarm.com
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gilyeon00)](https://solved.ac/gilyeon00/)
 
 <div align="center">
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilyeon00&show_icons=true&theme=radical)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gilyeon00)](https://solved.ac/gilyeon00/)
 
 <hr/>
 
