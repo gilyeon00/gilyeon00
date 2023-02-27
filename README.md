@@ -6,7 +6,7 @@
 <div align="center">
 
   ```
-  These days I'm into this.
+  These days I'm into this
 ```
 <div style="display: flex; align-items: flex-start;">
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="90" height="90" />
