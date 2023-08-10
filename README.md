@@ -9,7 +9,6 @@
   These days I'm into these
 ```
 <div style="display: flex; align-items: flex-start;">
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="90" height="90" />
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="90" height="90" />
 </div>
   
@@ -65,7 +64,6 @@
 
 **Frontend**  
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
 
 <hr/>
   
